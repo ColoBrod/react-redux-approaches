@@ -1,0 +1,35 @@
+@import 'style/media-queries';
+
+/* EXTRA LARGE */
+@media (--xl) {
+}
+
+/* LARGE */
+@media (--lg) {
+  
+}
+
+/* MEDIUM */
+@media (--md) {
+
+}
+
+/* SMALL */
+@media (--sm) {
+
+}
+
+/* EXTRA SMALL */
+@media (--xs) {
+
+}
+
+@media (--landscape) {
+}
+
+@media (--square) {
+}
+
+@media (--portrait) {
+}
+
